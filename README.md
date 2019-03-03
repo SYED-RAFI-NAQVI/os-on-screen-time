@@ -1,12 +1,16 @@
 # os-on-screen-time
-Helps to show the uptime of pc
+Helps to show the uptime of pc in sec, hours, days.
 
-# install
+You might also be interested in Node.js’s native os.uptime() method. See #1 for reasons to use this package instead.
+
+# Install
 
      > npm i os-on-screen-time
 
-# run
+# Usage
 
-     > node index.js
+     > const uptime = require('os-on-screen-time')
+     > const uptime = new Uptime()
 
+     > uptime.time()
  
