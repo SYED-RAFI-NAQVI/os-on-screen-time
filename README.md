@@ -1,4 +1,4 @@
-# os-up-time
+# os-on-screen-time
 Helps to show the uptime of pc
 
 # install
