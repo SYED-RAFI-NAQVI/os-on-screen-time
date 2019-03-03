@@ -1,0 +1,11 @@
+{
+  "name": "os-up-time",
+  "version": "1.0.0",
+  "description": "helps to show the uptime of pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Rafi Naqvi",
+  "license": "ISC"
+}
