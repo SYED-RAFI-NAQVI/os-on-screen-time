@@ -7,6 +7,6 @@ Helps to show the uptime of pc
 
 # run
 
-     node index.js
+     > node index.js
 
  

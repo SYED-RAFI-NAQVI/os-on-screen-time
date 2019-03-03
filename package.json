@@ -1,6 +1,6 @@
 {
   "name": "os-on-screen-time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "helps to show the uptime of pc",
   "main": "index.js",
   "scripts": {
