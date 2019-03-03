@@ -1,6 +1,6 @@
 {
   "name": "os-on-screen-time",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "helps to show the uptime of pc",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/SYED-RAFI-NAQVI/os-up-time/issues"
   },
-  "homepage": "https://github.com/SYED-RAFI-NAQVI/os-up-time#readme"
+  "homepage": "https://github.com/SYED-RAFI-NAQVI/os-up-time#readme",
+  "keywords": [
+    "uptime",
+    "os",
+    "time",
+    "-time",
+    "-uptime"
+  ]
 }

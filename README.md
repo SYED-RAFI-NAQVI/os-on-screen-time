@@ -9,8 +9,8 @@ You might also be interested in Node.js’s native os.uptime() method. See #1 fo
 
 # Usage
 
-     > const uptime = require('os-on-screen-time')
-     > const uptime = new Uptime()
+    > const Uptime = require('os-on-screen-time')
+    > const Ut = new Uptime()
 
-     > uptime.time()
+    > Ut.time()
  
