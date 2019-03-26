@@ -1,7 +1,7 @@
 # os-on-screen-time
 Helps to show the uptime of pc in sec, hours, days.
 
-You might also be interested in Node.js’s native os.uptime() method .
+You might also be interested in Node.js’s native os.uptime() method.
 
 # Install
 
